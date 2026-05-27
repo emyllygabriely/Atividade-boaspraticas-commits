@@ -1,1 +1,2 @@
-# Atividade-boaspraticas-commits
+# Atividade de boas práticas commits
+aprendendo a usar commits padronizados
